@@ -1,6 +1,6 @@
 # FIAP - Faculdade de Informática e Administração Paulista
 
-<img src="assets/fiap-logo.png" alt="FIAP Logo" width="200"/>
+<img src="assets/logo-fiap.png" alt="FIAP Logo" width="200"/>
 
 # Sistema de Gestão de Perdas na Colheita de Cana-de-Açúcar
 
