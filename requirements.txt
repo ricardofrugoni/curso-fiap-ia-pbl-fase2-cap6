@@ -1,0 +1,12 @@
+# Dependencias do Projeto - Sistema de Gestao de Colheitas
+# FIAP - Cap 6 - Python e Alem
+
+# Banco de Dados Oracle
+cx_Oracle>=8.3.0
+
+# Bibliotecas padrao do Python (nao precisam ser instaladas)
+# - datetime
+# - json
+# - os
+# - sys
+
